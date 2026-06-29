@@ -31,7 +31,7 @@ An Honors IT Graduate from FPT University with a strong foundation in Object-Ori
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/cuongtran-sap](https://www.linkedin.com/in/cuongtran-sap)
+- 💼 **LinkedIn:** [linkedin.com/in/cuongtran-sap](https://www.linkedin.com/in/cuongtranminh)
 - 📧 **Email:** [cuongtranminh510@gmail.com](mailto:cuongtranminh510@gmail.com)
 
 "Clean code, solid logic, endless growth."
